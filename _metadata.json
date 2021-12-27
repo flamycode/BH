@@ -1,0 +1,1292 @@
+[
+  {
+    "name": "FreakyPunk #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "d5cc4d897d64ff154ed499ee3ddbc6c3dd56c9cf",
+    "edition": 1,
+    "date": 1639311569027,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "9272744580e1e096fa80e23fcceb1a8962d6739b",
+    "edition": 2,
+    "date": 1639311569067,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PH 3D Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "cd2ff33f8fd871459d5448db816b8f95fde863ab",
+    "edition": 3,
+    "date": 1639311569107,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "1a612359f0359d38c8bfc725a0bd13bfd9a7b4a8",
+    "edition": 4,
+    "date": 1639311569147,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Afro Hairstyle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "a52574dbc284541612374c55decda7efc0a45afb",
+    "edition": 5,
+    "date": 1639311569187,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PH 3D Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "c1b5a972e57a555fb9fb0adbf86603f58af06bc5",
+    "edition": 6,
+    "date": 1639311569228,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PH 3D Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "c56343e33d1678073691d30e05027acafcdbd3bc",
+    "edition": 7,
+    "date": 1639311569267,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "e5cb3998f285236898820f4a8fcea2524e81645e",
+    "edition": 8,
+    "date": 1639311569311,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "7d1cc62cb3d4031462bac55d457b3fa050c624aa",
+    "edition": 9,
+    "date": 1639311569351,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PH 3D Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "366c5d031fd6e32feafc2cea8f12825b52e1304b",
+    "edition": 10,
+    "date": 1639311569391,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Afro Hairstyle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "a49f9eedfd6cd1ab3a3f02de1b8e40fb7ca1c528",
+    "edition": 11,
+    "date": 1639311569432,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Afro Hairstyle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "b65f1c5524f9a777641f064e560a915d3d4caef9",
+    "edition": 12,
+    "date": 1639311569476,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PH 3D Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "40ab4572a0838b1bb48a062837aa271b586816f3",
+    "edition": 13,
+    "date": 1639311569517,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "7cda42248f1abea37fe0ebdb03926c628b9b4a9f",
+    "edition": 14,
+    "date": 1639311569558,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "3d84cdaebaeaaae6dbe2bd14836ab6596e64d674",
+    "edition": 15,
+    "date": 1639311569601,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Afro Hairstyle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PH 3D Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "0eb357e23735f697f0c7df353471c2c2a1e22628",
+    "edition": 16,
+    "date": 1639311569644,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PH 3D Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "5c23f3d40b90dac48e4d29e85be54d34e9a25857",
+    "edition": 17,
+    "date": 1639311569684,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gold Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "95e38a71f53d8c13e9986003c9b661ffe9f26990",
+    "edition": 18,
+    "date": 1639311569724,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PH 3D Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "08104f3b7ca88e1466dc0452598f3f93685ad860",
+    "edition": 19,
+    "date": 1639311569764,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gold Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "ec52332ac03f9f969a9f07e8199cd3dd84197fbf",
+    "edition": 20,
+    "date": 1639311569805,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "0509ce2dcf5ce6785d9892cab069d98c9e29a1b8",
+    "edition": 21,
+    "date": 1639311569846,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "44f0f7db4de54f410659d9d5c91d45c9caf1f3c0",
+    "edition": 22,
+    "date": 1639311569886,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "bb8a0c0910acc3aa0f07b0fda565972371c9be04",
+    "edition": 23,
+    "date": 1639311569928,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Black Shades"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "cb10924a8afcb21c23c7a07ad4fdb48e85f46762",
+    "edition": 24,
+    "date": 1639311569974,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PH 3D Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "24106f14db55478ace33fec8e8f7a40826ea5c6f",
+    "edition": 25,
+    "date": 1639311570014,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PH 3D Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "de99a9adaefd3f2ebef997814f86b201de728bfd",
+    "edition": 26,
+    "date": 1639311570055,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Afro Hairstyle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PH 3D Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "5b06f40fcbbc205dc14c7ee1c2f9273e79a08fbf",
+    "edition": 27,
+    "date": 1639311570096,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange Donut"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Afro Hairstyle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "b0e7fd8f2e2f823b0247e5980a42fa3d9e70f458",
+    "edition": 28,
+    "date": 1639311570135,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "82907171f77ef94ea6789a6457e94fd175e53848",
+    "edition": 29,
+    "date": 1639311570174,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "e171b5aa98bdb394f07ecf061acddfb4bec1a3ac",
+    "edition": 30,
+    "date": 1639311570213,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Big Head"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Fully Shaved"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Round Glasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
